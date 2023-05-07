@@ -1,0 +1,9 @@
+[submodule "debian"]
+	path = debian
+	url = https://github.com/gbraad-devenv/debian
+[submodule "fedora"]
+	path = fedora
+	url = https://github.com/gbraad-devenv/fedora
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/gbraad-devenv/dotfiles
