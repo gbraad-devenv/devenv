@@ -10,3 +10,9 @@
 [submodule "dotfiles-upstream"]
 	path = dotfiles-upstream
 	url = https://github.com/gbraad/dotfiles
+[submodule "centos"]
+	path = centos
+	url = https://github.com/gbraad-devenv/centos
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/gbraad-devenv/ubuntu
