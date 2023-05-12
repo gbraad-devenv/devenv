@@ -37,3 +37,15 @@
 [submodule ".github"]
 	path = .github
 	url = https://github.com/gbraad-devenv/.github
+[submodule "almalinux"]
+	path = almalinux
+	url = https://github.com/gbraad-devenv/almalinux
+[submodule "almalinux-template"]
+	path = almalinux-template
+	url = https://github.com/gbraad-devenv/almalinux-template
+[submodule "opensuse-template"]
+	path = opensuse-template
+	url = https://github.com/gbraad-devenv/opensuse-template
+[submodule "opensuse"]
+	path = opensuse
+	url = https://github.com/gbraad-devenv/opensuse
